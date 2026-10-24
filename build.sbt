@@ -4,7 +4,7 @@ val fs2Version = "3.14.0"
 val http4sVersion = "0.23.38"
 val munitCatsEffectVersion = "2.2.1"
 val scala213Version = "2.13.18"
-val scala3Version = "3.3.8"
+val scala3Version = "3.9.0"
 val scalaCheckEffectVersion = "2.1.0"
 val testcontainersVersion = "2.0.5"
 
